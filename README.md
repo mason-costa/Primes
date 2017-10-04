@@ -4,7 +4,6 @@ Description: A command line application which prints out a multiplication table 
 
 ## Usage
 
-Explanation
+Run with Leiningen
 
-    $ java -jar prime-table-0.1.0-standalone.jar [args]
-
+    $ lein run 10
